@@ -1,0 +1,22 @@
+# Local test validator configuration
+# Used by: solana-test-validator and solana CLI
+
+[rpc]
+bind_address = "0.0.0.0"
+port = 8899
+
+[faucet]
+bind_address = "127.0.0.1"
+port = 9900
+
+[ledger]
+path = ".local-ledger"
+
+[gossip]
+port = 8001
+
+[tpu]
+port = 8003
+
+[tvu]
+port = 8004

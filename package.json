@@ -1,0 +1,31 @@
+{
+  "name": "sol-wallet-raw",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Multi-sig treasury vault on Solana — raw program, SDK, and dashboard",
+  "workspaces": [
+    "sdk",
+    "app"
+  ],
+  "scripts": {
+    "build:program": "cargo build-sbf --manifest-path ./program/Cargo.toml",
+    "test:program": "cargo test-sbf --manifest-path ./program/Cargo.toml",
+    "build:sdk": "pnpm --filter @sol-wallet/sdk build",
+    "dev": "pnpm --filter @sol-wallet/app dev",
+    "build": "pnpm build:sdk && pnpm --filter @sol-wallet/app build",
+    "localnet": "bash scripts/setup-local.sh",
+    "deploy:localnet": "NETWORK=localnet tsx scripts/deploy.ts",
+    "deploy:devnet": "NETWORK=devnet tsx scripts/deploy.ts",
+    "lint": "pnpm -r lint",
+    "clean": "cargo clean --manifest-path ./program/Cargo.toml && pnpm -r clean"
+  },
+  "devDependencies": {
+    "tsx": "^4.7.0",
+    "dotenv": "^16.4.0",
+    "typescript": "^5.4.0"
+  },
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  }
+}

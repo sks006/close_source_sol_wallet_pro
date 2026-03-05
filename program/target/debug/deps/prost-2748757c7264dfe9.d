@@ -1,0 +1,12 @@
+/home/seam/Music/sol-wallet-raw/program/target/debug/deps/prost-2748757c7264dfe9.d: /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/lib.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/error.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/message.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/types.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/encoding.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/../README.md
+
+/home/seam/Music/sol-wallet-raw/program/target/debug/deps/libprost-2748757c7264dfe9.rlib: /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/lib.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/error.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/message.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/types.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/encoding.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/../README.md
+
+/home/seam/Music/sol-wallet-raw/program/target/debug/deps/libprost-2748757c7264dfe9.rmeta: /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/lib.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/error.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/message.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/types.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/encoding.rs /home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/../README.md
+
+/home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/lib.rs:
+/home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/error.rs:
+/home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/message.rs:
+/home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/types.rs:
+/home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/encoding.rs:
+/home/seam/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/prost-0.11.9/src/../README.md:
